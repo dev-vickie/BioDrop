@@ -1,0 +1,19 @@
+{
+  "name": "Victor Mutethia",
+  "bio": "Software Developer and GDSC Flutter Lead at DeKUT",
+  "links": [
+    {
+      "group": "Socials",
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/v_mutethia_",
+      "icon": "FaTwitter"
+    },
+     {
+      "group": "Socials",
+      "name": "Github: Check My Projects",
+      "url": "https:github.com/dev-vickie",
+      "icon": "FaGithub"
+    }
+  ]
+}
+
